@@ -18,7 +18,7 @@ The dataset, originally in CSV format, has been converted into a SQL database to
 
 
 ## Author
-- <ins><b>©2025 Jason Redding. All rights reserved</b></ins>
+- <ins><b>©2025 Jason Redding.</b></ins>
 - <b>[LinkedIn](www.linkedin.com/in/jason-redding-0b6b302a7)</b>
 
 
