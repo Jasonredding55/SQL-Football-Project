@@ -10,8 +10,86 @@ The dataset used in this project provides detailed and comprehensive information
 ## Data Processing
 The dataset, originally in CSV format, has been converted into a SQL database to enhance usability and streamline data management. This transformation enables more efficient querying, analysis, and integration with advanced data tools. SQL queries have been utilized to clean, filter, and transform the data as necessary. This ensures that the data used for the dashboard is accurate and reliable.
 
-## Taks Performed
+## Tasks Performed
 
+**Player Analysis**
+
+Players with the most goals
+
+Players with the most assists 
+
+Players with the most goal contributions (goals and assists)
+
+Players with the highest goals per 90 with atleast 10 90s played
+
+Players with the highest goal involvement per 90 minute with atleast 10 90s played
+
+Players with highest expected goals and assists combined
+
+Players with most progressive carries 
+
+Players with most red cards
+
+Players with most yellow cards
+
+Players with most cards
+
+Players who have played the most minutes
+
+How many progressive carries does 'Cole Palmer' complete each game on average
+
+
+**Position analysis**
+
+Progressive runs per position
+
+Progressive carries per position
+
+Progressive passes per position
+
+Expected goals per position
+
+Total goal contributions for each position
+
+Players who have scored the most penalties 
+
+Players who have missed the most penalties
+
+Players penalty conversion rate with atleast 1 penatly taken
+
+The oldest player in the dataset 
+
+The youngest player in the dataset
+		
+Player with the most goals from each country 
+
+Defenders with the most goals
+
+Defenders with the most assists 
+
+**Age analysis**
+
+Overall goals and assists by each age group
+
+Average goals and assists by each age group
+
+Sum of goals for under 25 and players 25 and over
+
+Average age of players in each position
+
+Average age of all players
+
+Amount of Players per nationality
+
+Goal contributions per nationality
+
+**Team analysis**
+
+Goals scored per team
+
+Average age per team 
+
+Amount of players per team
 
 
 **Conclusion**
