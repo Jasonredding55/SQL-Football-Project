@@ -10,7 +10,7 @@ The dataset used in this project provides detailed and comprehensive information
 ## Data Processing
 The dataset, originally in CSV format, has been converted into a SQL database to enhance usability and streamline data management. This transformation enables more efficient querying, analysis, and integration with advanced data tools. SQL queries have been utilized to clean, filter, and transform the data as necessary. This ensures that the data used for the dashboard is accurate and reliable.
 
-## Tasks Performed
+## Data Analysis
 
 **Player Analysis**
 
