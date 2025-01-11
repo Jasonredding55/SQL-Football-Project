@@ -92,7 +92,7 @@ Amount of Players per nationality
 Goal contributions per nationality
 
 ## Author
-Jason Redding
+**Jason Redding**
 
 ## Contact me
 If you have any questions or suggestions,you can reach out to me at jasonredding882@gmail.com.
