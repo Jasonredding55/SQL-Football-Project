@@ -11,7 +11,7 @@ The dataset used in this project provides detailed and comprehensive information
 The dataset, originally in CSV format, has been converted into a PostgreSQL database to enhance usability and streamline data management. This transformation enables more efficient querying, analysis, and integration with advanced data tools. SQL queries have been utilized to clean, filter, and transform the data as necessary. This ensures that the data used for the dashboard is accurate and reliable.
 
 ## Data Analysis
-The file DataAnalysis.csv contains PostgreSQL commands that provide the following information;
+The file DataAnalysis.csv contains PostgreSQL commands that provide the following information
 
 **Player Analysis**
 
