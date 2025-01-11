@@ -101,4 +101,4 @@ Amount of players per team
 
 
 ## Contact me!
-If you have any questions or suggestions,you can reach out to me at [Jason Redding](mailto:jasonredidng882@gmail.com). 
+If you have any questions or suggestions,you can reach out to me at jasonredding882@gmail.com
