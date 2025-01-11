@@ -20,19 +20,19 @@ Players with the most assists
 
 Players with the most goal contributions (goals and assists)
 
-Players with the highest goals per 90 with atleast 10 90s played
+Players with the highest goals per 90 minutes with atleast 10 90's played
 
-Players with the highest goal involvement per 90 minute with atleast 10 90s played
+Players with the highest goal involvement per 90 minute with atleast 10 90's played
 
 Players with highest expected goals and assists combined
 
-Players with most progressive carries 
+Players with the most progressive carries 
 
-Players with most red cards
+Players with the most red cards
 
-Players with most yellow cards
+Players with the most yellow cards
 
-Players with most cards
+Players with the most combined cards
 
 Players who have played the most minutes
 
@@ -57,9 +57,9 @@ Players who have missed the most penalties
 
 Players penalty conversion rate with atleast 1 penatly taken
 
-The oldest player in the dataset 
+The oldest player in the Premier League
 
-The youngest player in the dataset
+The youngest player in the Premier League
 		
 Player with the most goals from each country 
 
@@ -77,13 +77,9 @@ Sum of goals for under 25 and players 25 and over
 
 Average age of players in each position
 
-Average age of all players
+Average age of all players in the Premier League
 
-Amount of Players per nationality
-
-Goal contributions per nationality
-
-**Team analysis**
+**Team and nation analysis**
 
 Goals scored per team
 
@@ -91,6 +87,9 @@ Average age per team
 
 Amount of players per team
 
+Amount of Players per nationality
+
+Goal contributions per nationality
 
 **Conclusion**
 
